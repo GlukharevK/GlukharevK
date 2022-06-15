@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 https://www.codewars.com/users/GlukharevK/badges/large
-[![codewars](https://www.codewars.com/users/GlukharevK/badges/large](https://www.codewars.com/users/GlukharevK)  
+[![codewars](https://www.codewars.com/users/GlukharevK/badges/large)](https://www.codewars.com/users/GlukharevK)  
 
 
 <!--
