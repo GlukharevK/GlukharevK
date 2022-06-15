@@ -2,6 +2,8 @@
 
 [![codewars](https://www.codewars.com/users/GlukharevK/badges/large)](https://www.codewars.com/users/GlukharevK)  
 
+<a href="https://github.com/GlukharevK/DS_Sber/tree/main/Финальный%20проект" target="_blank">⚡Pet project⚡</a>
+
 
 <!--
 **GlukharevK/GlukharevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
